@@ -1,0 +1,22 @@
+NO  ./textures/greystone.xpm
+SO  ./textures/tiles.xpm
+EA  ./textures/red.xpm
+WE  ./textures/purplestone.xpm
+F 50, 50, 50
+C 0, 150, 150
+
+111111
+110001
+110001
+110001
+100001
+100001
+11S001
+100001
+100011
+100001
+100001
+110001
+100001
+100001
+111111
